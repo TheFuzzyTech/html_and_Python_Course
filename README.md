@@ -5,7 +5,7 @@ Requirements:
     Visual Studio Code
     Python 3.7.4
   
-Schedule:
+```Schedule:
     Day 1: HTML and CSS
         Introduction to environment
             vscode
@@ -34,4 +34,4 @@ Schedule:
             Start Designing a website about you! An autobiography site.
     Day 2: Python
 
-    Day3: Django
+    Day3: Django```
